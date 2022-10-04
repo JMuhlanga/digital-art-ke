@@ -1,10 +1,11 @@
 import React from 'react';
-import { Switch, Route} from 'react-router-dom';
+import { Routes, Route } from "react-router-dom";
 import Home from './Components/Home';
 import Gallery from './Components/Gallery';
 import Events from './Components/Events';
 import About from './Components/About';
 import Contact from './Components/Contact';
+import NavBar from './Components/Navbar';
 
 
 
@@ -12,9 +13,9 @@ function App() {
   return (
     <div className="App">
 
-      <Switch>
+      <Routes>
 
-        <Route exact path ="/home">
+        <Route exact path ="/">
           <Home />
         </Route>
 
@@ -29,12 +30,14 @@ function App() {
         <Route path ="/about">
           <About />
         </Route>
-        
+
         <Route path ="/contact">
           <Contact />
         </Route>
         
-      </Switch>
+      </Routes>
+
+      <NavBar />
      
     </div>
   );
