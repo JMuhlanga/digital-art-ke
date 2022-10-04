@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+## Digital-Art-Ke by Jose Kupeka 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+We all love art and it forms Parts of our lives ,in our thoughts and sometimes in our actions . Everything has a form of artistic expression to it be it as simple as the devices we use  to even the houses we live in. Art is around us  and we love to surround ourselves in it .
 
-In the project directory, you can run:
+## Problem Statement 
 
-### `npm start`
+We have numerous Artists who lack an avenue to get their artistic work the deserved exposure . Artists are some of the most dedicated and inspirational people we have around  but some of them are discouraged and resort to other forms of ‘hustling’ to make ends meet rather than utilize their talents.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+At the same time, most of the lay man do not know where to go to get art. Art can liven up the mood as well as enhance ones decoration in the house. Art can also be used as a means to convey a message embedded within itself. When the ‘lay’ people mostly think of art , they might think that its expensive to get , while also being hard to know where to get it from. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Artistry and art can also be an economic activity. Not  only just by making , marketing and selling it but by also trading it as a commodity like the stock market. This is an up an coming means of investment, whereby a collective put an amount of money into an art piece which is then traded on the open market   bringing back good Money.
 
-### `npm test`
+## Minimum Viable Product
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The first Version should basically have:
+I. Have the ability to be viewable on various devices .
+II. Have the capability to capture artist details and display a sample of them.
+III. Have the ability for users to view the same artist details on an art card that will be displayed, enabling an option to contact for purchase.
+IV. The page should also be able to display up an coming events which might be physical or virtual , with relevant dates and links/venues.
+V. The page can also be used to show previous records of sales and prices .
 
-### `npm run build`
+## Technologies 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. HTML.
+2. CSS.
+3. React.
+4. Vanilla JS.
+5. JSON
