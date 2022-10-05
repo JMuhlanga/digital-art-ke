@@ -4,18 +4,24 @@ function Home() {
   return (
     <section id ="hero">
 
-            <div className="container">
+            <div className="jumbotron jumbotron-fluid bg-dark">
 
-                <div className="info">
+            <div className="jumbotron-background">
+              <img src="https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg" class="blur " />
+            </div>
 
-                    <h1>DIGI-ARTS-KE</h1>
+                <div className="container text-white">
 
-                    <h2>Arts and Crafts</h2> 
+                    <h1 className="display-4">DIGI-ARTS-KE</h1>
+
+                    <h2 className="display-5">Arts and Crafts</h2> 
+
+                    <hr className="my-4"></hr>
 
                     <p>Welcome to DIGI-ARTS-KE, a platform whose aims are at exposing artists and their creative Work</p>
 
-                    <a href="#reg-forms">Join-us Today!!</a>
-
+                    <a class="btn btn-primary btn-lg" href="#reg-forms" role="button">Join-us Today!!</a>
+                    
                 </div>                
 
             </div>  
