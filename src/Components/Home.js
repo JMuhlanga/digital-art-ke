@@ -7,7 +7,7 @@ function Home() {
             <div className="jumbotron jumbotron-fluid bg-dark">
 
             <div className="jumbotron-background">
-              <img src="https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg" class="blur " />
+              <img src="https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg" alt="background-img" class="blur " />
             </div>
 
                 <div className="container text-white">
