@@ -2,9 +2,23 @@ import React from 'react';
 
 function Gallery() {
   return (
-    <div className="Gallery">
-     
-    </div>
+    <section id = "gallery">
+
+            <div class="container">
+
+                <div className="info">
+
+                    <h2>Here are some  featured Works This Week</h2>
+
+                    <ol id="worksList">
+
+                    </ol>
+
+                </div>                
+    
+            </div>
+
+        </section>
   );
 }
 

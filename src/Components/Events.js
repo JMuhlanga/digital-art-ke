@@ -2,9 +2,23 @@ import React from 'react';
 
 function Events() {
   return (
-    <div className="Events">
-     
-    </div>
+    <section id = "events">
+
+            <div class="container">
+
+                <div class="info">
+
+                    <h2>Here are some up and coming events</h2>
+
+                    <ol id="eventList">
+
+                    </ol>
+
+                </div>                
+    
+            </div>
+
+        </section>
   );
 }
 
