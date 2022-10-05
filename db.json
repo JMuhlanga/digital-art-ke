@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "id":1,
+            "eventName":"Nairobi Sunset",
+            "date":"14-09-2022",
+            "venue":"Kenya Cinema",
+            "description":"Come Enjoy a Glass of Well Aged Kenyan Wine as we view Some of the best Sunset Pieces by Artist Njoro Mwangi at Keya Cinema.",
+            "host":"Kenya Art Commission"
+        },
+        {
+            "id":2,
+            "eventName":"Oh Kenya!! My Kenya",
+            "date":"15-09-2022",
+            "venue":"KBC Hall",
+            "description":"Come Experience Political Activism through at its Best with Art Pieces by James Kanjama, KHRC will be in-attendace.",
+            "host":"KBC"
+        },
+        {
+            "id":2,
+            "eventName":"CyberPunk KE",
+            "date":"16-09-2022",
+            "venue":"Alliance Francaise",
+            "description":"Ever Wondered What Kenya might look years in the Future, Well wonder no longer, Come Down to Alliance Francaise to see Art Pieces by students of Moringa",
+            "host":"KBC"
+        }
+    ]
+}
