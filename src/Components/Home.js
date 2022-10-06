@@ -1,6 +1,10 @@
 import React from 'react';
+import JoinForm from './JoinForm';
 
 function Home() {
+
+  
+  
   return (
     <section id ="hero">
 
@@ -22,7 +26,9 @@ function Home() {
 
                     <p>Welcome to DIGI-ARTS-KE, a platform whose aims are at exposing artists and their creative Work</p>
 
-                    <a class="btn btn-primary btn-lg" href="#reg-forms" role="button">Join-us Today!!</a>
+                    <h3 className="display-5">Join Us Today</h3>
+
+                    
                     
                 </div>                
 
