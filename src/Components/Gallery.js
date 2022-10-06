@@ -26,7 +26,7 @@ function Gallery() {
                     <h2>Here are some  featured Works This Week</h2>
 
                     <div className="card-group">
-                      
+                       
                       {artCard}
 
                     </div>
