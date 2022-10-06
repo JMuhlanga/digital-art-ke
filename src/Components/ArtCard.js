@@ -10,7 +10,7 @@ function ArtCard({artName,artDesc,artImg,artist,postDate}) {
             <p className="card-text">{artDesc}</p>
             </div>
             <div className="card-footer">
-            <small className="text-muted">Posted by {artist} on {postDate}</small>
+            <small className="text-muted">Posted by <b>{artist}</b> on <b>{postDate}</b> </small>
             </div>
         </div>
     </>
