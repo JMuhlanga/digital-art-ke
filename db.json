@@ -54,6 +54,10 @@
     ],
 
     "join":[
-        
+        {
+            "id":1,
+            "name":"Ahmed Juma",
+            "email":"ajuma@email.com"
+        }
     ]
 }
