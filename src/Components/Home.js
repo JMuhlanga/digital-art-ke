@@ -11,7 +11,9 @@ function Home() {
             </div>
 
                 <div className="container text-white">
-
+                    
+                    <h1> </h1>
+                    <h1> </h1>
                     <h1 className="display-4">DIGI-ARTS-KE</h1>
 
                     <h2 className="display-5">Arts and Crafts</h2> 
