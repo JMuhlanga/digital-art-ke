@@ -19,8 +19,7 @@ function Events() {
       <div className="container">
         <div className="info">
           <h2>Here are some up and coming events</h2>
-            {eventCards}           
-
+            {eventCards}  
         </div>    
       </div>
     </section>

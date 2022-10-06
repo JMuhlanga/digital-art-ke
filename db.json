@@ -24,5 +24,32 @@
             "description":"Ever Wondered What Kenya might look years in the Future, Well wonder no longer, Come Down to Alliance Francaise to see Art Pieces by students of Moringa",
             "host":"KBC"
         }
+    ],
+
+    "artpieces":[
+        {
+            "id":1,
+            "artName":"Clouds",
+            "artDesc":"Imagine a party in one Kilimanis premier clubs, a shisha session mixed up with the smoke from the Cigarettes, a Disgusting site that made me formulate this piece.",
+            "artImg":"../src/images/sample6.jpg",
+            "artist":"Johnathan Mwangi",
+            "postDate":"15-09-2022"
+        },
+        {
+            "id":2,
+            "artName":"Flowers",
+            "artDesc":"Was Stuck in my Garden one week and was amazed by the beauty of the flowers, which then inspired me to make this piece.",
+            "artImg":"../src/images/sample5.jpg",
+            "artist":"Rose Odhiambo",
+            "postDate":"16-09-2022"
+        },
+        {
+            "id":3,
+            "artName":"Magnolia Scent",
+            "artDesc":"In memory of my dear Wife, she loved flowers, the vase she put up in the living room had that effect on me, this is my form of grieving to her .",
+            "artImg":"../src/images/sample3.jpg",
+            "artist":"Mwanzo Duncan",
+            "postDate":"17-09-2022"
+        }
     ]
 }
